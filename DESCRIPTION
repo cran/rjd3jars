@@ -1,6 +1,6 @@
 Package: rjd3jars
 Title: External jars for 'rjdverse' R Packages
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person(given = "Tanguy", 
            family = "Barthelemy", role = c("aut", "cre"),
@@ -9,11 +9,12 @@ Description: It provides external jars required for the 'rjdverse' (as 'rjd3tool
 Depends: R (>= 4.1)
 Imports: rJava (>= 1.0-6)
 License: EUPL
+SystemRequirements: Java (>= 21)
 Encoding: UTF-8
 RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2026-03-05 15:07:06 UTC; onyxia
+Packaged: 2026-03-10 08:18:31 UTC; onyxia
 Author: Tanguy Barthelemy [aut, cre]
 Maintainer: Tanguy Barthelemy <tanguy.barthelemy@insee.fr>
 Repository: CRAN
-Date/Publication: 2026-03-05 16:00:02 UTC
+Date/Publication: 2026-03-10 09:50:14 UTC
