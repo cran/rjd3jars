@@ -8,12 +8,21 @@
 \description{
 It provides external jars required for the 'rjdverse' (as 'rjd3toolkit', 'rjd3x13' and 'rjd3tramoseats').
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/rjdverse/rjd3jars}
+  \item \url{https://rjdverse.github.io/rjd3jars/}
+  \item Report bugs at \url{https://github.com/rjdverse/rjd3jars/issues}
+}
+
+}
 \author{
-\strong{Maintainer}: Tanguy Barthelemy \email{timeserieswithjdemetraandr@gmail.com}
+\strong{Maintainer}: Tanguy Barthelemy \email{timeserieswithjdemetraandr@gmail.com} [copyright holder]
 
 Authors:
 \itemize{
-  \item Tanguy Barthelemy \email{timeserieswithjdemetraandr@gmail.com}
+  \item Tanguy Barthelemy \email{timeserieswithjdemetraandr@gmail.com} [copyright holder]
 }
 
 }

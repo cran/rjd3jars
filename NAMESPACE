@@ -6,5 +6,7 @@ export(minimal_java_version)
 export(reload_dictionaries)
 export(reload_safactories)
 export(reload_tsproviders)
-importFrom(rJava,.jcall)
-importFrom(rJava,.jpackage)
+importFrom(rJava,
+  .jcall,
+  .jpackage
+)
